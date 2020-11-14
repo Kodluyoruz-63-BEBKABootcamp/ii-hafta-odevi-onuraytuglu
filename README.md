@@ -34,7 +34,7 @@ Fakat MIT lisansı için aynı durum söz konusu değildir. MIT lisansına sahip
  </ul>
  
  <h2><strong>Github Learning Lab'de First Day ve First Week kısımlarını bitiriniz.</strong></h2>
- <div style="color:blue"><strong>already finished...</strong></div>
+ <p style="color:blue;"><strong>already finished...</strong></p>
  
  <h2><strong>Agile-Scrum-Kanban kavramlarını araştırınız</strong></h2>
    <h3>Agile metodunun tanımı</h3>
